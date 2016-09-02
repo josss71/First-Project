@@ -1,0 +1,11 @@
+@import 'https://fonts.googleapis.com/css?family=Rubik+One';
+
+p{font-family: 'Rubik One', sans-serif;
+
+serif;
+color:black;
+background-color:red;
+border: 5px solid white;
+padding: 40px;
+width: 600px;
+}
